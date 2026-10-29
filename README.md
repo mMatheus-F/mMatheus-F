@@ -1,5 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:261447,100:7C3AED&height=190&section=header&text=MATHEUS.exe&fontSize=44&fontColor=F5F3FF&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Desenvolvimento%20de%20Software&descSize=15&descAlignY=62&animation=fadeIn" alt="Banner MATHEUS.exe em roxo e preto" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B12,50:261447,100:7C3AED&height=190&section=header&text=MATHEUS%20FERREIRA&fontSize=44&fontColor=F5F3FF&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Desenvolvimento%20de%20Software&descSize=15&descAlignY=62&animation=fadeIn" alt="Banner Matheus Ferreira em roxo e preto" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2400&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=PLAYER+1+READY%3BEstudante+de+ADS%3BDesenvolvimento+de+software" alt="Texto animado em estilo arcade" />
 </div>
