@@ -56,6 +56,15 @@ Conhecimentos iniciais em desenvolvimento back-end e bancos de dados.
 `ChatGPT` · `Gemini` · `Claude`
 
 ---
+<div align="center">
+  <a href="https://github.com/mMatheus-F/mMatheus-F">
+    <img
+      src="https://raw.githubusercontent.com/mMatheus-F/mMatheus-F/main/mario_contribution.svg"
+      width="100%"
+      alt="Animação do Mario no gráfico de contribuições"
+    />
+  </a>
+</div>
 
 <div align="center">
   <sub>Obrigado pela visita. Continue programando — e que vença o próximo nível! 🎮</sub>
